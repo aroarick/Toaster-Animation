@@ -103,7 +103,7 @@ body {
   position: relative;
   left: 0.1px;
   top: 1.7px;
-  animation: 6s move infinite;
+  animation: 3s move infinite;
 }
 
 @keyframes move {
@@ -188,7 +188,7 @@ body {
   bottom: 255px;
   left: 24px;
   z-index: -1;
-  animation: 6s toast infinite;
+  animation: 3s toast infinite;
 }
 
 @keyframes toast {
@@ -238,7 +238,7 @@ body {
   bottom: 275px;
   right: 2px;
   z-index: -1;
-  animation: 6s toast2 infinite;
+  animation: 3s toast2 infinite;
 }
 
 @keyframes toast2 {
